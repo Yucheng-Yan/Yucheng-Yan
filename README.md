@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Yucheng Yan (or Andy).
+My name is yucheng (or andy), a web developer at [Daemon](https://www.daemon.com.au/), living in Sydney.
