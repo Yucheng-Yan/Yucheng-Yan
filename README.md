@@ -27,4 +27,3 @@ My name is yucheng (or andy), a web developer at [Daemon](https://www.daemon.com
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠶⠟⠛⠛⠷⢦⣤⡴⠾⠛⠛⠻⠶⣤⣤⠶⠟⠛⠛⠷⢦⣤⡴⠾⠛⠛⠻⠶⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ```
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yucheng-Yan)](https://git.io/streak-stats)
