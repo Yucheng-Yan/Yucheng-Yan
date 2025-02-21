@@ -1,4 +1,4 @@
-## Hii there 🍺
+## Hi there 🍺
 
 <!--
 **Yucheng-Yan/Yucheng-Yan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
